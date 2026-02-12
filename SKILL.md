@@ -1,11 +1,9 @@
 ---
 name: culminating-point-assessment
-description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Diagnostic
-  Framework **Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How
-  far should we go?'
+description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Diagnostic Framework **Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How far should we go?'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - culminating-point-assessment
